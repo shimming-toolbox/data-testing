@@ -73,6 +73,7 @@
         1,
         0
     ],
+    "ImageOrientationText": "Tra",
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "ConversionSoftware": "dcm2niix",
     "ConversionSoftwareVersion": "v1.0.20201102",

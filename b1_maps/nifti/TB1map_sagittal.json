@@ -73,6 +73,7 @@
         0,
         -1
     ],
+    "ImageOrientationText": "Sag",
     "InPlanePhaseEncodingDirectionDICOM": "ROW",
     "ConversionSoftware": "dcm2niix",
     "ConversionSoftwareVersion": "v1.0.20201102",
