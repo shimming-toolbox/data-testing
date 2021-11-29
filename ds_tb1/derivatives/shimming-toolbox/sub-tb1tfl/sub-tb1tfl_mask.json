@@ -1,0 +1,20 @@
+{
+	"PatientPosition": "HFS",
+        "RawSources": "acdc_spine_7t_011p_localizer_np11_sphere_20210928093219_46_i00001",
+        "Type": "Phantom",
+	"SliceThickness": 5,
+	"SpacingBetweenSlices": 20,
+	"BaseResolution": 256,
+	"PhaseResolution": 1,
+	"ImageOrientationPatientDICOM": [
+		0,
+		1,
+		0,
+		0,
+		0,
+		-1	],
+	"ImageOrientationText": "Sag",
+	"InPlanePhaseEncodingDirectionDICOM": "ROW",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20211006"
+}
