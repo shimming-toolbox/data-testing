@@ -1,6 +1,6 @@
 {
     "name": "NP15ch",
-    "coef_channel_minmax": [
+    "coef_channel_minmax": {"coil": [
         [
             -1.0,
             1.0
@@ -61,7 +61,7 @@
             -1.0,
             1.0
         ]
-    ],
+    ]},
     "coef_sum_max": 15,
     "Units": "A"
 }
