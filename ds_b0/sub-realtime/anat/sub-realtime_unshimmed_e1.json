@@ -30,6 +30,10 @@
     "SliceThickness": 3,
     "SpacingBetweenSlices": 3.6,
     "SAR": 0.0040273,
+    "TablePosition": [
+      0,
+      0,
+      0	],
     "EchoNumber": 1,
     "EchoTime": 0.0025,
     "RepetitionTime": 1,
@@ -91,7 +95,7 @@
         0
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
-    "ConversionSoftware": "dcm2niix",
-    "ConversionSoftwareVersion": "v1.0.20200331",
-    "Dcm2bidsVersion": "2.1.4"
+    "ConversionSoftware": "",
+    "ConversionSoftwareVersion": "",
+    "Dcm2bidsVersion": ""
 }

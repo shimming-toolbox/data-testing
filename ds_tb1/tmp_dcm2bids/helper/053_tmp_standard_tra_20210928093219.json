@@ -26,6 +26,10 @@
 	"SliceThickness": 7,
 	"SpacingBetweenSlices": 14,
 	"SAR": 0.00443249,
+	"TablePosition": [
+    0,
+    0,
+    0	],
 	"EchoTime": 0.00153,
 	"RepetitionTime": 3.76,
 	"SpoilingState": true,
@@ -69,6 +73,6 @@
 		0	],
 	"ImageOrientationText": "Tra",
 	"InPlanePhaseEncodingDirectionDICOM": "COL",
-	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20211006"
+	"ConversionSoftware": "",
+	"ConversionSoftwareVersion": ""
 }
