@@ -25,6 +25,10 @@
     "AcquisitionNumber":1,
     "SliceThickness":4.4,
     "SAR":0.0345734,
+    "TablePosition": [
+      0,
+      0,
+      0	],
     "EchoNumber":1,
     "EchoTime":0.00239,
     "RepetitionTime":0.009,
@@ -68,6 +72,6 @@
         -0.111469
     ],
     "InPlanePhaseEncodingDirectionDICOM":"COL",
-    "ConversionSoftware":"dcm2niix",
-    "ConversionSoftwareVersion":"v1.0.20230411"
+    "ConversionSoftware":"",
+    "ConversionSoftwareVersion":""
 }
