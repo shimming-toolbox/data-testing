@@ -4,6 +4,7 @@
     "ImagingFrequency":123.25,
     "Manufacturer":"Siemens",
     "ManufacturersModelName":"Prisma_fit",
+    "DeviceSerialNumber": "167006",
     "StationName":"MRC35049",
     "BodyPartExamined":"BRAIN",
     "PatientPosition":"HFS",
